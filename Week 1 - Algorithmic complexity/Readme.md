@@ -1,3 +1,5 @@
+# Сложност на алгоритми
+
 [Презентацияата за сложности](https://docs.google.com/presentation/d/1GS8FVD0PAMS4P4KO95KqCvBHvKgRcexUeUgTvhFXMCQ/edit?usp=sharing)
 
 #### Няма да я правя публична. Ако искате достъп заявете си и ми пишете да ви дам.
