@@ -14,4 +14,3 @@
 5. [Encoding password](https://www.hackerrank.com/contests/practice-1-sda/challenges/encoding-password)
 6. [Water supply](https://www.hackerrank.com/contests/practice-1-sda/challenges/challenge-2196)
 7. [Non-divisible sum](https://www.hackerrank.com/challenges/non-divisible-subset/problem )
-\
