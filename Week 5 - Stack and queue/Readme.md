@@ -6,6 +6,7 @@
 Пример за валидна последователност: ((())())
 
 Пример за невалидна последователност: ())()(
+
 4. Имплементирайте стек, който през след всяка операция поддържа и обновява стойността на максималният си елемент. Сложността на операциите трябва да остане константна.
 5. [Welcome to the jungle](https://www.hackerrank.com/contests/practice-4-sda/challenges/welcome-to-the-jungle?fbclid=IwAR2MSEuZ-jVqumejFdNwOTFL_tZBHb2QnXPJvk0qWi-d0Khfe_wGG93iMeg)
 6. [Number of recent calls](https://leetcode.com/problems/number-of-recent-calls/description/?fbclid=IwAR2nyVRCaQ1ajYv7OUpAyzBYLpbMbkvZx7Ttvoj-MBv9hMpGTQtmt4DwMy0)
