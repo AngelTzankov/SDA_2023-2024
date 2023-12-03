@@ -5,5 +5,5 @@
 2. Да се намери първото естествено число, което не се среща в масив 
 3. Най-дълъг подмасив с нулева сума
 4. Най-дълъг подмасив на булев масив, с равен брой 0 и 1
-5. Най-дълга последователна подредица
+5. [Най-дълга последователна подредица](https://leetcode.com/problems/longest-consecutive-sequence/description/)
 6. [Rolling hash](https://cp-algorithms.com/string/string-hashing.html)
