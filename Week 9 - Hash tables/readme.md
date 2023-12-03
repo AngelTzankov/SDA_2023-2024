@@ -6,4 +6,4 @@
 3. Най-дълъг подмасив с нулева сума
 4. Най-дълъг подмасив на булев масив, с равен брой 0 и 1
 5. [Най-дълга последователна подредица](https://leetcode.com/problems/longest-consecutive-sequence/description/)
-6. [Rolling hash](https://cp-algorithms.com/string/string-hashing.html)
+6. [Rolling hash - имплементация и примерна задача с решение](https://cp-algorithms.com/string/string-hashing.html)
